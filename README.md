@@ -38,9 +38,11 @@ The Calendar App is a user-friendly tool that allows you to keep track of your e
 To run the app locally, follow these steps:
 
 1. Clone the repository:
+
    ```sh
-   git clone https://github.com/yourusername/Calendar-React.git
+   git clone https://github.com/rhafaelc/Calendar-React.git
    ```
+
 2. Navigate to the project directory:
    ```sh
    cd Calendar-React
